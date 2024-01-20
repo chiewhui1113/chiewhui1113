@@ -8,6 +8,8 @@
 
 - 📝 I regularly write articles on [RED](https://www.xiaohongshu.com/user/profile/604b1ba1000000000100b0ee)
 
+- 📫 My Website [TickQ](https://tickq2.com/)
+
 - ⚡ Fun fact **I have a husky!**
 
 <h3 align="left">Connect with me:</h3>
