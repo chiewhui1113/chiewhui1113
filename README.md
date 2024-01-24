@@ -10,7 +10,7 @@
 
 - 📫 My Website [TickQ](https://tickq2.com/)
 
-- ⚡ Fun fact **I have a husky!**
+- ⚡ Fun fact **I am not a nerd!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
