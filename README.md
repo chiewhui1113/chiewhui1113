@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiewhui1113&label=Profile%20views&color=1e3e89&style=flat" alt="chiewhui1113" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Algorithms, CS Basics**
-
 - 📝 I regularly write articles on [RED](https://www.xiaohongshu.com/user/profile/604b1ba1000000000100b0ee)
 
 - 📫 My Website [TickQ](https://tickq2.com/)
+
+- ✌🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/chiew-hui-lim-523952218/)
 
 - ⚡ Fun fact **I am not a nerd!**
 
