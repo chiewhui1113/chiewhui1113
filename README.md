@@ -6,8 +6,6 @@
 
 - 📝 I regularly write articles on [RED](https://www.xiaohongshu.com/user/profile/604b1ba1000000000100b0ee)
 
-- 📫 My Website [TickQ](https://tickq2.com/)
-
 - ✌🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/chiew-hui-lim-523952218/)
 
 - ⚡ Fun fact **I am not a nerd!**
