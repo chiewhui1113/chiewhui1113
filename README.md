@@ -159,20 +159,6 @@ A rhythm game built with **Functional Reactive Programming (FRP)** and the **MVC
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chiewhui1113&show_icons=true&count_private=true&hide_border=true&title_color=1e3e89&icon_color=1e3e89&text_color=555&bg_color=ffffff" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiewhui1113&layout=compact&hide_border=true&title_color=1e3e89&text_color=555&bg_color=ffffff" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiewhui1113&hide_border=true&ring=1e3e89&fire=1e3e89&currStreakLabel=1e3e89&background=ffffff" alt="streak" />
-</div>
-
-<br/>
-
 <div align="center">
   <sub>Thanks for visiting! ✨</sub>
 </div>
