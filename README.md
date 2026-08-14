@@ -29,8 +29,9 @@
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
-| 🪙 **Backend Development Engineer Intern** | **Bybit** | Jul 2026 – Jan 2027 |
-| 📑 **Research Assistant** | **HKUST** | Jun 2026 – Now |
+| 🤖 **Embodied AI Engineer** | **Devol Robots** | Jul 2026 – now |
+| 🪙 **Backend Development Engineer Intern** | **Bybit** | Jul 2026 – now |
+| 📑 **Research Assistant** | **HKUST** | Jun 2026 – July 2026 |
 | 🏦 **Full-Stack Java Developer Intern** | **iFAST Global Hub AI** | Nov 2025 – Feb 2026 |
 | 🐜 **Java Backend Intern** | **Ant International** | Nov 2024 – Feb 2025 |
 | 🔬 **IT Student Researcher** | **Monash University** | Nov 2023 – Feb 2024 |
