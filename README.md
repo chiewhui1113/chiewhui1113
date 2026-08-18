@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Chiew Hui</h1>
 <h3 align="center">A university student from Malaysia</h3>
 
@@ -31,7 +33,7 @@
 | :--- | :--- | :--- |
 | 🤖 **Embodied AI Engineer** | **Devol Robots** | Jul 2026 – now |
 | 🪙 **Backend Development Engineer Intern** | **Bybit** | Jul 2026 – now |
-| 📑 **Research Assistant** | **HKUST** | Jun 2026 – July 2026 |
+| 📑 **Research Assistant** | **HKUST** | Jun 2026 – Jul 2026 |
 | 🏦 **Full-Stack Java Developer Intern** | **iFAST Global Hub AI** | Nov 2025 – Feb 2026 |
 | 🐜 **Java Backend Intern** | **Ant International** | Nov 2024 – Feb 2025 |
 | 🔬 **IT Student Researcher** | **Monash University** | Nov 2023 – Feb 2024 |
